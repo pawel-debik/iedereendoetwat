@@ -1,0 +1,1 @@
+List of easy stuff everyone can do to lower their environmental footprint.
