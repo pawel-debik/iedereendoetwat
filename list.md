@@ -26,7 +26,7 @@ TO DO:
   -
 - Get solar panels
 - Get a heat pump
-- Insulate your home
+- Insulate your home: double glass in windows, filling in walls, fiberglass on attic, draft blocking foam around doors, reflective foil behind heaters
 - Have a water barrel
 - Have a steel bike instead of carbon
 
