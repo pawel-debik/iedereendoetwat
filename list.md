@@ -26,7 +26,7 @@ test
   -
 - Get solar panels
 - Get a heat pump
-- Insulate your home: double glass in windows, filling in walls, fiberglass on attic, draft blocking foam around doors, reflective foil behind heaters
+- Insulate your home
 - Have a water barrel
 - Have a steel bike instead of carbon
 
